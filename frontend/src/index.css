@@ -1,0 +1,47 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color: #1f2937;
+  background: #f3f4f6;
+}
+
+body { margin: 0; }
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 24px;
+  background: #1e3a8a;
+  color: #fff;
+}
+.header h1 { margin: 0; font-size: 1.25rem; }
+.header nav { display: flex; gap: 16px; }
+.header a { color: #bfdbfe; text-decoration: none; }
+.header a.active { color: #fff; font-weight: 600; }
+
+.main { max-width: 720px; margin: 24px auto; padding: 0 16px; }
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  background: #fff;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.1);
+}
+.card h3, .card p { margin: 0; }
+
+input, textarea, select { padding: 8px; border: 1px solid #d1d5db; border-radius: 4px; font: inherit; }
+textarea { min-height: 80px; }
+button {
+  align-self: flex-start;
+  padding: 8px 14px;
+  border: 0;
+  border-radius: 4px;
+  background: #2563eb;
+  color: #fff;
+  cursor: pointer;
+}
+.error { color: #b91c1c; }
