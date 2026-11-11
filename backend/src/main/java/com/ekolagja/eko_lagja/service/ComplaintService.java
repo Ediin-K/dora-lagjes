@@ -1,10 +1,10 @@
-package com.doralagjes.dora_lagjes.service;
+package com.ekolagja.eko_lagja.service;
 
-import com.doralagjes.dora_lagjes.dto.ComplaintRequest;
-import com.doralagjes.dora_lagjes.exception.NotFoundException;
-import com.doralagjes.dora_lagjes.model.Complaint;
-import com.doralagjes.dora_lagjes.model.ComplaintStatus;
-import com.doralagjes.dora_lagjes.repository.ComplaintRepository;
+import com.ekolagja.eko_lagja.dto.ComplaintRequest;
+import com.ekolagja.eko_lagja.exception.NotFoundException;
+import com.ekolagja.eko_lagja.model.Complaint;
+import com.ekolagja.eko_lagja.model.ComplaintStatus;
+import com.ekolagja.eko_lagja.repository.ComplaintRepository;
 import java.util.List;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.doralagjes.dora_lagjes.dto;
+package com.ekolagja.eko_lagja.dto;
 
 import jakarta.validation.constraints.NotBlank;
 

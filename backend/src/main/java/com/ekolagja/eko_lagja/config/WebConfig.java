@@ -1,4 +1,4 @@
-package com.doralagjes.dora_lagjes.config;
+package com.ekolagja.eko_lagja.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;

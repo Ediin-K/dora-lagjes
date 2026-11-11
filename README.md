@@ -1,13 +1,13 @@
-# dora-lagjes
+# eko-lagja
 Digital platform connecting residents with their municipality: notices, complaints, polls and neighbourly help.
 
 ## Structure
 
 ```
-dora-lagjes/
+eko-lagja/
 ├── backend/                     Spring Boot backend (Java 17, Maven)
 │   ├── pom.xml
-│   └── src/main/java/com/doralagjes/dora_lagjes/
+│   └── src/main/java/com/ekolagja/eko_lagja/
 │       ├── config/              CORS / web config
 │       ├── controller/          REST endpoints (/api/...)
 │       ├── dto/                 Request objects with validation

@@ -1,13 +1,13 @@
-package com.doralagjes.dora_lagjes;
+package com.ekolagja.eko_lagja;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DoraLagjesApplication {
+public class EkoLagjaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DoraLagjesApplication.class, args);
+		SpringApplication.run(EkoLagjaApplication.class, args);
 	}
 
 }

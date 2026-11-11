@@ -4,7 +4,7 @@ export default function Layout() {
   return (
     <>
       <header className="header">
-        <h1>Dora Lagjes</h1>
+        <h1>Eko Lagja</h1>
         <nav>
           <NavLink to="/" end>Notices</NavLink>
           <NavLink to="/complaints">Complaints</NavLink>
