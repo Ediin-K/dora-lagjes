@@ -1,10 +1,10 @@
-package com.doralagjes.dora_lagjes;
+package com.ekolagja.eko_lagja;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DoraLagjesApplicationTests {
+class EkoLagjaApplicationTests {
 
 	@Test
 	void contextLoads() {

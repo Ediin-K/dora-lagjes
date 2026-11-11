@@ -1,4 +1,4 @@
-package com.doralagjes.dora_lagjes.exception;
+package com.ekolagja.eko_lagja.exception;
 
 import java.util.Map;
 import org.springframework.http.HttpStatus;

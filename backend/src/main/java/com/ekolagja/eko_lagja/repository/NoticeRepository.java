@@ -1,6 +1,6 @@
-package com.doralagjes.dora_lagjes.repository;
+package com.ekolagja.eko_lagja.repository;
 
-import com.doralagjes.dora_lagjes.model.Notice;
+import com.ekolagja.eko_lagja.model.Notice;
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
 

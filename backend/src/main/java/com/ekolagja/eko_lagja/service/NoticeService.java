@@ -1,9 +1,9 @@
-package com.doralagjes.dora_lagjes.service;
+package com.ekolagja.eko_lagja.service;
 
-import com.doralagjes.dora_lagjes.dto.NoticeRequest;
-import com.doralagjes.dora_lagjes.exception.NotFoundException;
-import com.doralagjes.dora_lagjes.model.Notice;
-import com.doralagjes.dora_lagjes.repository.NoticeRepository;
+import com.ekolagja.eko_lagja.dto.NoticeRequest;
+import com.ekolagja.eko_lagja.exception.NotFoundException;
+import com.ekolagja.eko_lagja.model.Notice;
+import com.ekolagja.eko_lagja.repository.NoticeRepository;
 import java.util.List;
 import org.springframework.stereotype.Service;
 

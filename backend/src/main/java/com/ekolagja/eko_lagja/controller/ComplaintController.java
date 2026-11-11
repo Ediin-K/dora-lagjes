@@ -1,9 +1,9 @@
-package com.doralagjes.dora_lagjes.controller;
+package com.ekolagja.eko_lagja.controller;
 
-import com.doralagjes.dora_lagjes.dto.ComplaintRequest;
-import com.doralagjes.dora_lagjes.model.Complaint;
-import com.doralagjes.dora_lagjes.model.ComplaintStatus;
-import com.doralagjes.dora_lagjes.service.ComplaintService;
+import com.ekolagja.eko_lagja.dto.ComplaintRequest;
+import com.ekolagja.eko_lagja.model.Complaint;
+import com.ekolagja.eko_lagja.model.ComplaintStatus;
+import com.ekolagja.eko_lagja.service.ComplaintService;
 import jakarta.validation.Valid;
 import java.util.List;
 import org.springframework.http.HttpStatus;
